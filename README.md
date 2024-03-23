@@ -1,6 +1,7 @@
 # Im Here
 
 Im here é um projeto que serviu para aprender um pouco mais sobre alguns conceitos utilizados no React Native.
+
 Ele basicamente é uma lista de convidados para uma suposta reunião.
 
 ![image](https://github.com/manuteu/imhere/assets/74114950/00dbaba6-7b4f-42d8-9034-d72a3e96a22e)
